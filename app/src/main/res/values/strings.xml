@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CCC.obs</string>
+
+    <string-array name="names">
+        <item>Observation 1</item>
+        <item>Observation 2</item>
+        <item>Observation 3</item>
+        <item>Observation 4</item>
+        <item>Observation 5</item>
+        <item>Observation 6</item>
+        <item>Observation 7</item>
+        <item>Announcer</item>
+    </string-array>
+
+</resources>
